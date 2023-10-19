@@ -1,2 +1,2 @@
-# Oneliners tool installl command for terminal.
+# Oneliners tool install commands for terminal.
 # JUST COPY AND PASTE
