@@ -1,0 +1,3 @@
+sudo snap install metasploit-framework
+sudo snap install hash-id
+sudo snap install amass
