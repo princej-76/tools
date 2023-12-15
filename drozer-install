@@ -1,5 +1,5 @@
 git clone https://github.com/WithSecureLabs/drozer.git
 cd drozer/bin/
-echo "python2 /media/princej76/HDD/tools/drozer/bin/drozer" > drozer.py
+echo "python2 ~/tools/drozer/bin/drozer" > drozer.py
 sudo mv drozer.py /usr/local/bin/drozer
 sudo chmod +x /usr/local/bin/drozer
