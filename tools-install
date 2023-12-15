@@ -19,3 +19,5 @@ sudo apt install -y libpcap-dev
 go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 sudo apt install apktool
 sudo apt install adb
+sudo snap install metasploit-framework
+sudo snap install hash-id
